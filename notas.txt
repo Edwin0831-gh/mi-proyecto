@@ -1,1 +1,2 @@
-archivo modificado desde mi computadora 
+archivo modificado desde mi computadora
+estoy editando el archivo desde github
